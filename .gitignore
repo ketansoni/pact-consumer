@@ -1,0 +1,19 @@
+### Java ###
+*.class
+target
+tmp
+.history
+.idea
+*.iml
+*.ipr
+*.iws
+out
+.idea_modules
+.classpath
+.project
+RUNNING_PID
+
+# Package Files #
+*.jar
+*.war
+*.ear
